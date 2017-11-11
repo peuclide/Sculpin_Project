@@ -1,0 +1,3 @@
+Log file path: C:\Users\Administrator\Dropbox\Genetics\Sculpin_analysis\Ontario_Data\MSA\MSA_scul.dat_MSAresult01\Formats&Data\Arlequin_log.txt
+Core Program Directory: C:/Users/Administrator/Desktop/WinArl35/
+Random number generator initialized with lidum=-854205

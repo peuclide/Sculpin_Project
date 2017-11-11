@@ -1,0 +1,106 @@
+Log file path: C:/Users/Administrator/Dropbox/Genetics/Sculpin_analysis/Ontario_Data/Arlequin/alr_scul_ONandChamp_2016.res/Arlequin_log.txt
+Core Program Directory: C:/Users/Administrator/Desktop/WinArl35/
+Random number generator initialized with lidum=-1588649
+Reading project profile section...
+done !
+Opening next project...
+C:/Users/Administrator/Dropbox/Genetics/Sculpin_analysis/Ontario_Data/Arlequin/alr_scul_ONandChamp_2016.arp
+////////////////////////////////////////////////////////////////////
+RUN NUMBER 1 (16/12/16 at 14:31:45)
+////////////////////////////////////////////////////////////////////
+
+
+Reading Project: 
+Reading input file ...
+   1 #[WARNING # 1] from function "readStringContent(...)" : bad value assigned to keyword in project file
+	Project file, Line #2 : Opened quote not closed after keyword 'Title'. Unable to assign value to key...
+	Project file, Line #10 : Keyword "CompDistMatrix" is now obsolete. Please set this parameter directly throug the interface
+
+	Reading Samples section ...
+	Reading Barber1 ... 
+	done ! (0 ms)
+
+	Reading Grand Is ... 
+	done ! (0 ms)
+
+	Reading ISN ... 
+	done ! (0 ms)
+
+	Reading ISS ... 
+	done ! (0 ms)
+
+	Reading mallets ... 
+	done ! (0 ms)
+
+	Reading shelburne bay ... 
+	done ! (0 ms)
+
+	Reading Sunset Is ... 
+	done ! (10 ms)
+
+	Reading Fairhaven_LO ... 
+	done ! (0 ms)
+
+	Reading Hamilton_LO ... 
+	done ! (0 ms)
+
+	done reading Samples section! (10 ms)
+	Reading genetic structure ...
+	done reading genetic structure! (0 ms)
+done ! (10 ms)
+
+------------------------------------------------------------------------
+  Checking all selected options...
+		Building vectors of alleles...
+		done in 0 ms
+  done!
+  check selected settings...
+  done!
+
+Population 'Barber1' : 
+done in 0 ms
+
+Population 'Grand Is' : 
+done in 0 ms
+
+Population 'ISN' : 
+done in 0 ms
+
+Population 'ISS' : 
+done in 0 ms
+
+Population 'mallets' : 
+done in 0 ms
+
+Population 'shelburne bay' : 
+done in 0 ms
+
+Population 'Sunset Is' : 
+done in 0 ms
+
+Population 'Fairhaven_LO' : 
+done in 0 ms
+
+Population 'Hamilton_LO' : 
+done in 0 ms
+	Converting phenotypic to haplotypic data ...
+	done ! (10 ms)
+
+Skipping microsat repeat length detection
+		Beginning distance computations ...
+		done ! (240 ms)
+	Computing pairwise Fst's ... 
+
+2390 ms to compute pairwise differences and test significance
+
+All FST distances have been computed and written to file
+
+	done ! (2390 ms)
+		done ! (2390 ms)
+
+////////////////////////////////////////////////////////////////////
+END OF RUN NUMBER 1 (16/12/16 at 14:31:48))
+Total computing time for this run : 0h 0m 2s 660 ms
+////////////////////////////////////////////////////////////////////
+
+Successful run of C:/Users/Administrator/Dropbox/Genetics/Sculpin_analysis/Ontario_Data/Arlequin/alr_scul_ONandChamp_2016.arp

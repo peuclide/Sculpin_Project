@@ -1,0 +1,12 @@
+***********************************************************************************************************************************************************
+*   The following results were generated the 1/4/2017 at 4:04:01 PM with Fstat for windows, V2.9.3  2 (Feb. 2002) from file genpop_champ_ontarioScul.dat. *
+***********************************************************************************************************************************************************
+Samples of group   1 (G1) : pop1, pop2, pop6, pop7, 
+ Allelic richness:    5.795 Ho:    0.626 Hs:    0.612
+Samples of group   2 (G2) : pop3, pop4, 
+ Allelic richness:    5.990 Ho:    0.601 Hs:    0.624
+
+The two-sided P-values obtained after  10000 permutations are : 
+ Allelic Richness:  0.53860
+               Ho:  0.64260
+               Hs:  0.85810

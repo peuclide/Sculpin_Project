@@ -1,0 +1,27 @@
+MSAnalyser-Log
+	Version: 4.05
+	written 2001,2002 by Daniel Dieringer
+
+Filename: C:\Users\Administrator\Dropbox\Genetics\Sculpin_analysis\Ontario_Data\MSA\MSA_scul.dat
+Number of Loci		: 9
+Number of Populations	: 9
+Format : 2
+
+Allelic Richness : Minimal sample number per locus
+
+Count Allels...
+
+     Calculated Gst
+
+Make Overview...
+
+Generate Errorreport...
+
+Create tabular result files...
+
+Make Group results...
+
+Make Genepop files...
+     and datasheet convertion...
+
+Create Migrate/LAMARC ...

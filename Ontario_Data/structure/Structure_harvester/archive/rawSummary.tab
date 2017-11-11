@@ -1,0 +1,139 @@
+# This document produced by structureHarvester core version vA.2 July 2014
+# http://www.structureharvester.com/
+# https://github.com/dentearl/structureHarvester/
+# http://taylor0.biology.ucla.edu/structureHarvester
+# http://users.soe.ucsc.edu/~dearl/software/structureHarvester
+# Written by Dent Earl, dearl (a) soe ucsc edu.
+# CITATION:
+# Earl, Dent A. and vonHoldt, Bridgett M. (2012)
+# STRUCTURE HARVESTER: a website and program for visualizing
+# STRUCTURE output and implementing the Evanno method.
+# Conservation Genetics Resources 4(2) 359-361. DOI: 10.1007/s12686-011-9548-7
+# Core version: vA.2 July 2014
+# File generated at 2016-Dec-16 05:56:01 PST
+#
+
+##########
+# K	Reps	mean est. LnP(Data)	stdev est. LnP(Data)
+1	10	-6156.620000	0.225093
+2	10	-6038.130000	2.137522
+3	10	-6100.780000	8.081639
+4	10	-6210.680000	17.883127
+5	10	-6582.710000	158.847071
+6	10	-6694.620000	83.488027
+7	10	-6822.830000	119.937558
+8	10	-6904.940000	130.615468
+9	10	-6949.200000	160.594334
+10	10	-7007.170000	124.684821
+
+##########
+# File name	Run #	K	Est. Ln prob. of data	Mean value of Ln likelihood	Variance of Ln likelihood
+Resultsparmset1_run_91_f	91	1	-6156.5	-6133.0	47.1
+Resultsparmset1_run_100_f	100	1	-6156.7	-6133.0	47.3
+Resultsparmset1_run_96_f	96	1	-6157.1	-6133.2	47.8
+Resultsparmset1_run_99_f	99	1	-6156.6	-6133.0	47.2
+Resultsparmset1_run_92_f	92	1	-6156.5	-6132.9	47.1
+Resultsparmset1_run_98_f	98	1	-6156.4	-6132.9	47.0
+Resultsparmset1_run_93_f	93	1	-6156.6	-6133.0	47.2
+Resultsparmset1_run_97_f	97	1	-6156.5	-6133.0	47.1
+Resultsparmset1_run_95_f	95	1	-6156.4	-6132.9	46.9
+Resultsparmset1_run_94_f	94	1	-6156.9	-6133.1	47.5
+Resultsparmset1_run_4_f	4	2	-6037.8	-5890.0	295.7
+Resultsparmset1_run_5_f	5	2	-6039.5	-5890.7	297.7
+Resultsparmset1_run_8_f	8	2	-6040.4	-5890.7	299.3
+Resultsparmset1_run_6_f	6	2	-6036.8	-5890.2	293.1
+Resultsparmset1_run_9_f	9	2	-6041.1	-5890.6	301.0
+Resultsparmset1_run_3_f	3	2	-6037.1	-5890.2	293.9
+Resultsparmset1_run_7_f	7	2	-6038.7	-5890.7	295.9
+Resultsparmset1_run_2_f	2	2	-6034.7	-5890.1	289.2
+Resultsparmset1_run_10_f	10	2	-6035.4	-5889.9	290.9
+Resultsparmset1_run_1_f	1	2	-6039.8	-5890.5	298.7
+Resultsparmset1_run_20_f	20	3	-6096.6	-5852.6	487.9
+Resultsparmset1_run_18_f	18	3	-6095.0	-5852.9	484.1
+Resultsparmset1_run_17_f	17	3	-6097.3	-5852.3	490.1
+Resultsparmset1_run_16_f	16	3	-6101.2	-5853.2	496.1
+Resultsparmset1_run_14_f	14	3	-6090.8	-5855.2	471.2
+Resultsparmset1_run_12_f	12	3	-6105.2	-5851.9	506.6
+Resultsparmset1_run_15_f	15	3	-6120.2	-5854.2	532.0
+Resultsparmset1_run_13_f	13	3	-6100.6	-5854.0	493.2
+Resultsparmset1_run_19_f	19	3	-6096.7	-5853.6	486.2
+Resultsparmset1_run_11_f	11	3	-6104.2	-5851.4	505.5
+Resultsparmset1_run_30_f	30	4	-6204.1	-5784.4	839.5
+Resultsparmset1_run_27_f	27	4	-6247.0	-5787.4	919.0
+Resultsparmset1_run_21_f	21	4	-6220.3	-5783.3	873.9
+Resultsparmset1_run_28_f	28	4	-6212.9	-5784.6	856.6
+Resultsparmset1_run_26_f	26	4	-6196.8	-5783.7	826.2
+Resultsparmset1_run_22_f	22	4	-6216.6	-5788.7	855.7
+Resultsparmset1_run_23_f	23	4	-6201.2	-5782.2	838.0
+Resultsparmset1_run_29_f	29	4	-6212.5	-5785.6	853.9
+Resultsparmset1_run_25_f	25	4	-6217.2	-5788.0	858.2
+Resultsparmset1_run_24_f	24	4	-6178.2	-5784.5	787.4
+Resultsparmset1_run_34_f	34	5	-6511.3	-5766.4	1489.7
+Resultsparmset1_run_38_f	38	5	-6532.9	-5767.6	1530.6
+Resultsparmset1_run_37_f	37	5	-6557.9	-5765.4	1585.0
+Resultsparmset1_run_40_f	40	5	-6977.2	-5811.8	2330.9
+Resultsparmset1_run_32_f	32	5	-6566.9	-5773.0	1587.9
+Resultsparmset1_run_35_f	35	5	-6450.8	-5767.9	1365.9
+Resultsparmset1_run_31_f	31	5	-6669.4	-5771.6	1795.6
+Resultsparmset1_run_39_f	39	5	-6388.2	-5785.1	1206.2
+Resultsparmset1_run_33_f	33	5	-6575.1	-5773.8	1602.7
+Resultsparmset1_run_36_f	36	5	-6597.4	-5767.9	1659.0
+Resultsparmset1_run_50_f	50	6	-6622.3	-5753.7	1737.3
+Resultsparmset1_run_43_f	43	6	-6724.0	-5772.9	1902.2
+Resultsparmset1_run_44_f	44	6	-6762.2	-5762.7	1998.9
+Resultsparmset1_run_42_f	42	6	-6629.9	-5782.0	1695.9
+Resultsparmset1_run_41_f	41	6	-6573.5	-5758.4	1630.3
+Resultsparmset1_run_48_f	48	6	-6584.6	-5765.6	1638.1
+Resultsparmset1_run_45_f	45	6	-6779.4	-5785.7	1987.3
+Resultsparmset1_run_47_f	47	6	-6724.7	-5789.1	1871.2
+Resultsparmset1_run_49_f	49	6	-6792.7	-5771.0	2043.4
+Resultsparmset1_run_46_f	46	6	-6752.9	-5775.4	1955.1
+Resultsparmset1_run_53_f	53	7	-6730.2	-5783.4	1893.6
+Resultsparmset1_run_59_f	59	7	-6998.3	-5785.1	2426.5
+Resultsparmset1_run_54_f	54	7	-6795.9	-5773.8	2044.2
+Resultsparmset1_run_56_f	56	7	-6853.5	-5767.4	2172.1
+Resultsparmset1_run_57_f	57	7	-6708.2	-5757.0	1902.4
+Resultsparmset1_run_60_f	60	7	-6837.4	-5774.9	2125.0
+Resultsparmset1_run_58_f	58	7	-7060.3	-5793.8	2532.9
+Resultsparmset1_run_55_f	55	7	-6717.4	-5768.8	1897.2
+Resultsparmset1_run_52_f	52	7	-6747.1	-5759.3	1975.7
+Resultsparmset1_run_51_f	51	7	-6780.0	-5756.0	2048.0
+Resultsparmset1_run_66_f	66	8	-6838.2	-5789.9	2096.5
+Resultsparmset1_run_65_f	65	8	-6918.4	-5780.0	2276.9
+Resultsparmset1_run_63_f	63	8	-6744.3	-5791.6	1905.5
+Resultsparmset1_run_68_f	68	8	-6896.5	-5768.5	2256.0
+Resultsparmset1_run_67_f	67	8	-6900.3	-5789.6	2221.4
+Resultsparmset1_run_64_f	64	8	-7083.9	-5795.4	2577.0
+Resultsparmset1_run_70_f	70	8	-6941.8	-5768.0	2347.6
+Resultsparmset1_run_62_f	62	8	-6771.4	-5772.4	1997.9
+Resultsparmset1_run_61_f	61	8	-6802.2	-5815.0	1974.4
+Resultsparmset1_run_69_f	69	8	-7152.4	-5765.5	2773.8
+Resultsparmset1_run_73_f	73	9	-6874.8	-5769.6	2210.4
+Resultsparmset1_run_74_f	74	9	-6886.4	-5774.0	2224.8
+Resultsparmset1_run_79_f	79	9	-7348.1	-5781.5	3133.2
+Resultsparmset1_run_80_f	80	9	-6867.7	-5791.0	2153.3
+Resultsparmset1_run_71_f	71	9	-6954.7	-5815.3	2278.8
+Resultsparmset1_run_78_f	78	9	-6804.5	-5774.2	2060.6
+Resultsparmset1_run_77_f	77	9	-6783.2	-5764.1	2038.3
+Resultsparmset1_run_75_f	75	9	-7034.9	-5774.6	2520.7
+Resultsparmset1_run_76_f	76	9	-6958.1	-5789.9	2336.3
+Resultsparmset1_run_72_f	72	9	-6979.6	-5792.4	2374.4
+Resultsparmset1_run_83_f	83	10	-7282.9	-5777.9	3010.0
+Resultsparmset1_run_81_f	81	10	-6950.6	-5779.5	2342.2
+Resultsparmset1_run_89_f	89	10	-6974.5	-5787.5	2374.2
+Resultsparmset1_run_88_f	88	10	-7007.1	-5786.0	2442.2
+Resultsparmset1_run_87_f	87	10	-7071.0	-5757.4	2627.0
+Resultsparmset1_run_84_f	84	10	-6807.9	-5795.5	2024.8
+Resultsparmset1_run_86_f	86	10	-7029.5	-5775.0	2509.0
+Resultsparmset1_run_82_f	82	10	-7038.5	-5781.3	2514.3
+Resultsparmset1_run_85_f	85	10	-6888.2	-5793.1	2190.2
+Resultsparmset1_run_90_f	90	10	-7021.5	-5773.3	2496.6
+
+Software written by Dent Earl while at EEB Dept, UCLA, BME Dept UCSC
+dearl (a) soe ucsc edu
+CITATION:
+Earl, Dent A. and vonHoldt, Bridgett M. (2012)
+STRUCTURE HARVESTER: a website and program for visualizing
+STRUCTURE output and implementing the Evanno method.
+# Conservation Genetics Resources 4(2) 359-361. DOI: 10.1007/s12686-011-9548-7
+Core version: vA.2 July 2014

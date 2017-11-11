@@ -1,0 +1,53 @@
+Log file path: C:/Users/Administrator/Dropbox/Genetics/Sculpin_analysis/Ontario_Data/MSA/MSA_scul.dat_MSAresult01/Formats&Data/MSA_scul.dat.arlequin.res/Arlequin_log.txt
+Core Program Directory: C:/Users/Administrator/Desktop/WinArl35/
+Random number generator initialized with lidum=-1806867
+Reading project profile section...
+done !
+Opening next project...
+C:/Users/Administrator/Dropbox/Genetics/Sculpin_analysis/Ontario_Data/MSA/MSA_scul.dat_MSAresult01/Formats&Data/MSA_scul.dat.arlequin.arp
+////////////////////////////////////////////////////////////////////
+RUN NUMBER 1 (19/12/16 at 15:53:39)
+////////////////////////////////////////////////////////////////////
+
+
+Reading Project: 
+Reading input file ...
+	Project file, Line #8 : Keyword "CompDistMatrix" is now obsolete. Please set this parameter directly throug the interface
+
+	Reading Samples section ...
+	Reading Barber ... 
+	done ! (0 ms)
+
+	Reading Grand ... 
+	done ! (0 ms)
+
+	Reading ISN ... 
+	done ! (0 ms)
+
+	Reading ISS ... 
+	done ! (0 ms)
+
+	Reading mallets ... 
+	done ! (0 ms)
+
+	Reading shelburn ... 
+	done ! (10 ms)
+
+	Reading Sunset ... 
+	done ! (0 ms)
+
+	Reading Fairhave ... 
+	done ! (0 ms)
+
+	Reading Hamilton ... 
+	done ! (0 ms)
+
+	done reading Samples section! (10 ms)
+	Reading genetic structure ...
+	Warning: Keyword "IndividualLevel" defined on line 549 is obsolete. Activation of this option is now made through the interface.
+		Error while exploring structure of Group # 1. It does not contain any population sample
+			Check your [[Structure]] section, for unquoted sample names
+		Aborting reading project.
+   1 #[ERROR # 1] from function "Structure::NewReadStructure" : group does not contain any population sample
+Error opening project... C:/Users/Administrator/Dropbox/Genetics/Sculpin_analysis/Ontario_Data/MSA/MSA_scul.dat_MSAresult01/Formats&Data/MSA_scul.dat.arlequin.res/MSA_scul.dat.arlequin.arp
+Error during run of C:/Users/Administrator/Dropbox/Genetics/Sculpin_analysis/Ontario_Data/MSA/MSA_scul.dat_MSAresult01/Formats&Data/MSA_scul.dat.arlequin.arp

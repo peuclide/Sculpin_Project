@@ -1,0 +1,385 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml-stylesheet type="text/xsl" href="file:///C:/Users/Administrator/Desktop/WinArl35/ArlequinStyleSheet.xsl"?>
+<!--Arlequin results file-->
+
+<Arlequin>
+
+<data>
+
+
+</data>
+
+<header>
+Arlequin results
+</header>
+<data>
+
+</data>
+
+ <A NAME="20_12_16at14_23_05"></A> 
+<data>
+
+</data> <run time="20/12/16 at 14:23:05">
+
+////////////////////////////////////////////////////////////////////
+RUN NUMBER 1 (20/12/16 at 14:23:05)
+////////////////////////////////////////////////////////////////////
+
+</run> <data>
+</data>
+
+ <A NAME="20_12_16at14_23_05_run_information"></A> 
+<data>
+
+
+Project information:
+--------------------
+	NbSamples      =  9
+	DataType       =  MICROSAT
+	GenotypicData  =  1
+	GameticPhase   =  0
+	RecessiveData  =  0
+
+</data> <title time="20/12/16 at 14:23:05">
+
+==============================
+Settings used for Calculations
+==============================
+
+</title> <data>
+
+ General settings:
+ -----------------
+        Deletion Weight                = 1
+        Transition Weight Weight       = 1
+        Tranversion Weight Weight      = 1
+        Epsilon Value                  = 1e-007
+        Significant digits for output  = 5
+        Use original haplotype definition
+        Alllowed level of missing data = 0.05
+
+ Active Tasks:
+ -------------
+
+    Population pairwise Fst values:
+    -------------------------------
+        No. of permutations for significance = 100
+        No. of permutations for Mantel test  = 1000
+
+       Distance matrix:
+            Compute distance matrix
+            Molecular distance : No. of different alleles (FST)
+            Gamma a value      = 0
+
+</data>
+
+ <A NAME="20_12_16at14_23_05_pop_gen_struct"></A> 
+<data>
+
+===============================================================================
+== GENETIC STRUCTURE ANALYSIS
+===============================================================================
+
+
+Number of usable loci for distance computation : 8
+Allowed level of missing data                  : 0.05
+
+List of usable loci :
+---------------------
+   1     2     4     5     6     7     8     9  
+
+List of loci with too much missing data :
+-----------------------------------------
+
+   3  
+
+</data>
+
+ <A NAME="20_12_16at14_23_05_pop_pairw_diff"></A> 
+<data>
+
+
+======================================================================================
+== Comparisons of pairs of population samples
+======================================================================================
+
+List of labels for population samples used below:
+-------------------------------------------------
+</data> <pairDistPopLabels time="20/12/16 at 14:23:05">
+
+Label  	Population name
+-----  	---------------
+  1:	Grand Is
+  2:	Sunset Is
+  3:	shelburne bay
+  4:	Barber1
+  5:	ISN
+  6:	ISS
+  7:	mallets
+  8:	Fairhaven_LO
+  9:	Hamilton_LO
+</pairDistPopLabels> <data>
+
+
+------------------------
+Population pairwise FSTs
+------------------------
+
+</data> <PairFstMat time="20/12/16 at 14:23:05">
+
+
+Distance method: No. of different alleles (FST)
+                     1         2         3         4         5         6         7         8         9
+           1   0.00000
+           2   0.00851   0.00000
+           3  -0.00756  -0.00273   0.00000
+           4  -0.00746  -0.00379  -0.00511   0.00000
+           5  -0.00561   0.00254  -0.00042  -0.00668   0.00000
+           6   0.00061   0.01594   0.00509   0.00244  -0.00425   0.00000
+           7  -0.00890   0.00522  -0.00944  -0.01140  -0.00641   0.00094   0.00000
+           8   0.09063   0.09764   0.08258   0.09593   0.10612   0.11504   0.06471   0.00000
+           9   0.11116   0.11790   0.10776   0.11944   0.12954   0.14084   0.09076  -0.00419   0.00000
+</PairFstMat> <data>
+
+
+
+------------
+FST P values
+------------
+
+Number of permutations : 110
+
+</data> <PairFstPvalMat time="20/12/16 at 14:23:05">
+
+                       1                 2                 3                 4                 5                 6                 7                 8                 9
+           1           *
+           2   0.04505+-0.0244           *
+           3   0.97297+-0.0184   0.60360+-0.0526           *
+           4   0.87387+-0.0238   0.67568+-0.0413   0.82883+-0.0379           *
+           5   0.84685+-0.0338   0.19820+-0.0297   0.53153+-0.0417   0.96396+-0.0142           *
+           6   0.33333+-0.0543   0.00901+-0.0091   0.15315+-0.0305   0.28829+-0.0572   0.80180+-0.0317           *
+           7   0.90991+-0.0165   0.18919+-0.0566   0.90991+-0.0287   0.95495+-0.0203   0.84685+-0.0244   0.42342+-0.0471           *
+           8   0.00000+-0.0000   0.00000+-0.0000   0.00000+-0.0000   0.00000+-0.0000   0.00000+-0.0000   0.00000+-0.0000   0.00000+-0.0000           *
+           9   0.00000+-0.0000   0.00000+-0.0000   0.00000+-0.0000   0.00000+-0.0000   0.00000+-0.0000   0.00000+-0.0000   0.00000+-0.0000   0.69369+-0.0385           *
+</PairFstPvalMat> <data>
+
+
+
+------------
+Matrix of significant Fst P values
+Significance Level=0.0500
+------------
+
+Number of permutations : 110
+
+                     1         2         3         4         5         6         7         8         9
+           1                   +         -         -         -         -         -         +         +
+           2         +                   -         -         -         +         -         +         +
+           3         -         -                   -         -         -         -         +         +
+           4         -         -         -                   -         -         -         +         +
+           5         -         -         -         -                   -         -         +         +
+           6         -         +         -         -         -                   -         +         +
+           7         -         -         -         -         -         -                   +         +
+           8         +         +         +         +         +         +         +                   -
+           9         +         +         +         +         +         +         +         -          
+
+
+////////////////////////////////////////////////////////////////////
+END OF RUN NUMBER 1 (20/12/16 at 14:23:06))
+Total computing time for this run : 0h 0m 0s 660 ms
+////////////////////////////////////////////////////////////////////
+
+
+</data>
+
+
+<data>
+
+
+</data>
+
+<header>
+Arlequin results
+</header>
+<data>
+
+</data>
+
+ <A NAME="20_12_16at14_23_14"></A> 
+<data>
+
+</data> <run time="20/12/16 at 14:23:14">
+
+////////////////////////////////////////////////////////////////////
+RUN NUMBER 1 (20/12/16 at 14:23:14)
+////////////////////////////////////////////////////////////////////
+
+</run> <data>
+</data>
+
+ <A NAME="20_12_16at14_23_14_run_information"></A> 
+<data>
+
+
+Project information:
+--------------------
+	NbSamples      =  9
+	DataType       =  MICROSAT
+	GenotypicData  =  1
+	GameticPhase   =  0
+	RecessiveData  =  0
+
+</data> <title time="20/12/16 at 14:23:14">
+
+==============================
+Settings used for Calculations
+==============================
+
+</title> <data>
+
+ General settings:
+ -----------------
+        Deletion Weight                = 1
+        Transition Weight Weight       = 1
+        Tranversion Weight Weight      = 1
+        Epsilon Value                  = 1e-007
+        Significant digits for output  = 5
+        Use original haplotype definition
+        Alllowed level of missing data = 0.05
+
+ Active Tasks:
+ -------------
+
+    Population pairwise Fst values:
+    -------------------------------
+        No. of permutations for significance = 100
+        No. of permutations for Mantel test  = 1000
+
+       Distance matrix:
+            Compute distance matrix
+            Molecular distance : Sum of squared size difference (RST)
+            Gamma a value      = 0
+
+</data>
+
+ <A NAME="20_12_16at14_23_14_pop_gen_struct"></A> 
+<data>
+
+===============================================================================
+== GENETIC STRUCTURE ANALYSIS
+===============================================================================
+
+
+Number of usable loci for distance computation : 8
+Allowed level of missing data                  : 0.05
+
+List of usable loci :
+---------------------
+   1     2     4     5     6     7     8     9  
+
+List of loci with too much missing data :
+-----------------------------------------
+
+   3  
+
+</data>
+
+ <A NAME="20_12_16at14_23_14_pop_pairw_diff"></A> 
+<data>
+
+
+======================================================================================
+== Comparisons of pairs of population samples
+======================================================================================
+
+List of labels for population samples used below:
+-------------------------------------------------
+</data> <pairDistPopLabels time="20/12/16 at 14:23:14">
+
+Label  	Population name
+-----  	---------------
+  1:	Grand Is
+  2:	Sunset Is
+  3:	shelburne bay
+  4:	Barber1
+  5:	ISN
+  6:	ISS
+  7:	mallets
+  8:	Fairhaven_LO
+  9:	Hamilton_LO
+</pairDistPopLabels> <data>
+
+
+------------------------
+Population pairwise FSTs
+------------------------
+
+</data> <PairFstMat time="20/12/16 at 14:23:14">
+
+
+Distance method: Sum of squared size difference (RST)
+                     1         2         3         4         5         6         7         8         9
+           1   0.00000
+           2  -0.00686   0.00000
+           3  -0.01243  -0.01858   0.00000
+           4  -0.00290  -0.01397  -0.01349   0.00000
+           5  -0.01524  -0.01942  -0.01652  -0.01284   0.00000
+           6  -0.01083  -0.01627  -0.01553  -0.01138  -0.01487   0.00000
+           7  -0.01915  -0.02259  -0.01634  -0.01072  -0.02006  -0.01143   0.00000
+           8   0.19103   0.17593   0.15686   0.12776   0.14722   0.18724   0.17530   0.00000
+           9   0.18716   0.17007   0.16285   0.13548   0.15167   0.20138   0.18183  -0.02871   0.00000
+</PairFstMat> <data>
+
+
+
+------------
+FST P values
+------------
+
+Number of permutations : 110
+
+</data> <PairFstPvalMat time="20/12/16 at 14:23:14">
+
+                       1                 2                 3                 4                 5                 6                 7                 8                 9
+           1           *
+           2   0.54955+-0.0286           *
+           3   0.72072+-0.0272   0.97297+-0.0184           *
+           4   0.37838+-0.0446   0.87387+-0.0306   0.77477+-0.0310           *
+           5   0.90090+-0.0304   0.98198+-0.0096   0.94595+-0.0205   0.78378+-0.0238           *
+           6   0.73874+-0.0265   0.93694+-0.0151   0.92793+-0.0238   0.72973+-0.0253   0.92793+-0.0238           *
+           7   0.84685+-0.0310   0.95495+-0.0151   0.75676+-0.0433   0.46847+-0.0466   0.89189+-0.0165   0.58559+-0.0434           *
+           8   0.00000+-0.0000   0.00000+-0.0000   0.00000+-0.0000   0.00000+-0.0000   0.00000+-0.0000   0.00000+-0.0000   0.00000+-0.0000           *
+           9   0.00000+-0.0000   0.00000+-0.0000   0.00000+-0.0000   0.00000+-0.0000   0.00000+-0.0000   0.00000+-0.0000   0.00000+-0.0000   0.93694+-0.0151           *
+</PairFstPvalMat> <data>
+
+
+
+------------
+Matrix of significant Fst P values
+Significance Level=0.0500
+------------
+
+Number of permutations : 110
+
+                     1         2         3         4         5         6         7         8         9
+           1                   -         -         -         -         -         -         +         +
+           2         -                   -         -         -         -         -         +         +
+           3         -         -                   -         -         -         -         +         +
+           4         -         -         -                   -         -         -         +         +
+           5         -         -         -         -                   -         -         +         +
+           6         -         -         -         -         -                   -         +         +
+           7         -         -         -         -         -         -                   +         +
+           8         +         +         +         +         +         +         +                   -
+           9         +         +         +         +         +         +         +         -          
+
+
+////////////////////////////////////////////////////////////////////
+END OF RUN NUMBER 1 (20/12/16 at 14:23:15))
+Total computing time for this run : 0h 0m 0s 600 ms
+////////////////////////////////////////////////////////////////////
+
+
+</data>
+
+</Arlequin>
+

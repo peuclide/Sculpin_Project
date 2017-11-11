@@ -1,0 +1,1384 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml-stylesheet type="text/xsl" href="file:///C:/Users/Administrator/Desktop/WinArl35/ArlequinStyleSheet.xsl"?>
+<!--Arlequin results file-->
+
+<Arlequin>
+
+<data>
+
+
+</data>
+
+<header>
+Arlequin results
+</header>
+<data>
+
+</data>
+
+ <A NAME="16_12_16at09_08_04"></A> 
+<data>
+
+</data> <run time="16/12/16 at 09:08:04">
+
+////////////////////////////////////////////////////////////////////
+RUN NUMBER 1 (16/12/16 at 09:08:04)
+////////////////////////////////////////////////////////////////////
+
+</run> <data>
+ #[WARNING # 1] : bad value assigned to keyword in project file
+</data>
+
+ <A NAME="16_12_16at09_08_04_run_information"></A> 
+<data>
+
+
+Project information:
+--------------------
+	NbSamples      =  9
+	DataType       =  MICROSAT
+	GenotypicData  =  1
+	GameticPhase   =  0
+	RecessiveData  =  0
+
+</data> <title time="16/12/16 at 09:08:04">
+
+==============================
+Settings used for Calculations
+==============================
+
+</title> <data>
+
+ General settings:
+ -----------------
+        Deletion Weight                = 1
+        Transition Weight Weight       = 1
+        Tranversion Weight Weight      = 1
+        Epsilon Value                  = 1e-007
+        Significant digits for output  = 5
+        Use original haplotype definition
+        Alllowed level of missing data = 0.05
+
+ Active Tasks:
+ -------------
+
+    Hardy-Weinberg equilibrium test:
+    --------------------------------
+        No. of steps in Markov chain      = 1000000
+        No. of Dememorisation Steps       = 100000
+        Required precision on Probability = 0
+        Test association at the Locus level
+
+    Analysis of Molecular Variance:
+    -------------------------------
+        No. of Permutations = 1000
+
+    Population pairwise Fst values:
+    -------------------------------
+        Compute coancestry coefficients
+        Compute Slatkin's distances
+        No. of permutations for significance = 100
+        No. of permutations for Mantel test  = 1000
+
+       Distance matrix:
+            Compute distance matrix
+            Molecular distance : No. of different alleles (FST)
+            Gamma a value      = 0
+
+    Exact test of population differentiation:
+    -----------------------------------------
+        No. of steps in Markov chain      = 100000
+        No. of Dememorisation Steps       = 10000
+        Required precision on Probability = 0
+        Print Histogram and table : Yes
+        Significance level        = 0.05
+
+
+==============================================================================
+== ANALYSES AT THE INTRA-POPULATION LEVEL
+==============================================================================
+</data>
+
+ <A NAME="16_12_16at09_08_04_group0"></A> 
+<data>
+
+
+===============================================================================
+== Sample : 	Barber1
+===============================================================================
+
+
+===============================
+== Hardy-Weinberg equilibrium : (Barber1)
+===============================
+
+</data>
+<Reference>Guo, S. and Thompson, E. 1992.</Reference>
+<Reference>Levene H. (1949).</Reference>
+<data>
+
+Exact test using a Markov chain (for all Loci):
+Forecasted chain length     :1000000
+Dememorization steps        :100000
+
+------------------------------------------------------------------------
+Locus  #Genot       Obs.Het.     Exp.Het.   P-value     s.d.  Steps done
+------------------------------------------------------------------------
+    1      30       0.83333      0.79153    0.74946  0.00040     1001000
+    2      30       0.83333      0.86949    0.01252  0.00009     1001000
+    3      28       0.60714      0.66364    0.39272  0.00034     1001000
+    4      30       0.30000      0.32147    0.22611  0.00039     1001000
+    5      30       0.03333      0.03333    1.00000  0.00000     1001000
+    6      30       0.70000      0.74124    0.59006  0.00058     1001000
+    7      29       0.75862      0.62734    0.65620  0.00045     1001000
+    8      29       0.82759      0.88990    0.22779  0.00017     1001000
+    9      29       0.58621      0.66425    0.12355  0.00033     1001000
+------------------------------------------------------------------------
+
+
+</data>
+
+ <A NAME="16_12_16at09_08_04_group1"></A> 
+<data>
+
+
+===============================================================================
+== Sample : 	Grand Is
+===============================================================================
+
+
+===============================
+== Hardy-Weinberg equilibrium : (Grand Is)
+===============================
+
+</data>
+<Reference>Guo, S. and Thompson, E. 1992.</Reference>
+<Reference>Levene H. (1949).</Reference>
+<data>
+
+Exact test using a Markov chain (for all Loci):
+Forecasted chain length     :1000000
+Dememorization steps        :100000
+
+------------------------------------------------------------------------
+Locus  #Genot       Obs.Het.     Exp.Het.   P-value     s.d.  Steps done
+------------------------------------------------------------------------
+    1      27       0.81481      0.77358    0.65603  0.00045     1001000
+    2      26       0.80769      0.89065    0.22689  0.00029     1001000
+    3      25       0.80000      0.62939    0.22163  0.00040     1001000
+    4      27       0.37037      0.35500    0.30779  0.00049     1001000
+    5   This locus is monomorphic: no test done.
+    6      30       0.80000      0.76836    0.95468  0.00021     1001000
+    7      30       0.76667      0.63164    0.20781  0.00040     1001000
+    8      30       0.90000      0.90282    0.25451  0.00032     1001000
+    9      30       0.60000      0.55763    0.11291  0.00031     1001000
+------------------------------------------------------------------------
+
+
+</data>
+
+ <A NAME="16_12_16at09_08_04_group2"></A> 
+<data>
+
+
+===============================================================================
+== Sample : 	ISN
+===============================================================================
+
+
+===============================
+== Hardy-Weinberg equilibrium : (ISN)
+===============================
+
+</data>
+<Reference>Guo, S. and Thompson, E. 1992.</Reference>
+<Reference>Levene H. (1949).</Reference>
+<data>
+
+Exact test using a Markov chain (for all Loci):
+Forecasted chain length     :1000000
+Dememorization steps        :100000
+
+------------------------------------------------------------------------
+Locus  #Genot       Obs.Het.     Exp.Het.   P-value     s.d.  Steps done
+------------------------------------------------------------------------
+    1      31       0.70968      0.79958    0.68175  0.00049     1001000
+    2      31       0.93548      0.88419    0.54497  0.00046     1001000
+    3      29       0.79310      0.67211    0.71966  0.00042     1001000
+    4      31       0.48387      0.47964    0.90499  0.00027     1001000
+    5   This locus is monomorphic: no test done.
+    6      29       0.62069      0.75378    0.41527  0.00040     1001000
+    7      30       0.70000      0.64746    0.76184  0.00037     1001000
+    8      30       0.90000      0.90395    0.64095  0.00033     1001000
+    9      29       0.62069      0.63581    0.28974  0.00051     1001000
+------------------------------------------------------------------------
+
+
+</data>
+
+ <A NAME="16_12_16at09_08_04_group3"></A> 
+<data>
+
+
+===============================================================================
+== Sample : 	ISS
+===============================================================================
+
+
+===============================
+== Hardy-Weinberg equilibrium : (ISS)
+===============================
+
+</data>
+<Reference>Guo, S. and Thompson, E. 1992.</Reference>
+<Reference>Levene H. (1949).</Reference>
+<data>
+
+Exact test using a Markov chain (for all Loci):
+Forecasted chain length     :1000000
+Dememorization steps        :100000
+
+------------------------------------------------------------------------
+Locus  #Genot       Obs.Het.     Exp.Het.   P-value     s.d.  Steps done
+------------------------------------------------------------------------
+    1      31       0.77419      0.79799    0.04168  0.00017     1001000
+    2      30       0.76667      0.88701    0.05778  0.00020     1001000
+    3      30       0.60000      0.60508    0.93592  0.00028     1001000
+    4      31       0.45161      0.45003    0.49739  0.00050     1001000
+    5   This locus is monomorphic: no test done.
+    6      30       0.73333      0.73446    0.70887  0.00066     1001000
+    7      30       0.56667      0.61299    0.90100  0.00030     1001000
+    8      30       0.83333      0.88701    0.71840  0.00042     1001000
+    9      30       0.33333      0.47401    0.16064  0.00035     1001000
+------------------------------------------------------------------------
+
+
+</data>
+
+ <A NAME="16_12_16at09_08_04_group4"></A> 
+<data>
+
+
+===============================================================================
+== Sample : 	mallets
+===============================================================================
+
+
+===============================
+== Hardy-Weinberg equilibrium : (mallets)
+===============================
+
+</data>
+<Reference>Guo, S. and Thompson, E. 1992.</Reference>
+<Reference>Levene H. (1949).</Reference>
+<data>
+
+Exact test using a Markov chain (for all Loci):
+Forecasted chain length     :1000000
+Dememorization steps        :100000
+
+------------------------------------------------------------------------
+Locus  #Genot       Obs.Het.     Exp.Het.   P-value     s.d.  Steps done
+------------------------------------------------------------------------
+    1      17       0.70588      0.80570    0.29736  0.00032     1001000
+    2      17       0.88235      0.90018    0.86555  0.00047     1001000
+    3      15       0.60000      0.61149    0.28756  0.00045     1001000
+    4      17       0.41176      0.35472    1.00000  0.00000     1001000
+    5   This locus is monomorphic: no test done.
+    6      18       0.83333      0.77619    0.46040  0.00052     1001000
+    7      17       0.70588      0.58289    0.51208  0.00049     1001000
+    8      17       0.88235      0.91444    0.69027  0.00039     1001000
+    9      17       0.52941      0.49198    0.55586  0.00046     1001000
+------------------------------------------------------------------------
+
+
+</data>
+
+ <A NAME="16_12_16at09_08_04_group5"></A> 
+<data>
+
+
+===============================================================================
+== Sample : 	shelburne bay
+===============================================================================
+
+
+===============================
+== Hardy-Weinberg equilibrium : (shelburne bay)
+===============================
+
+</data>
+<Reference>Guo, S. and Thompson, E. 1992.</Reference>
+<Reference>Levene H. (1949).</Reference>
+<data>
+
+Exact test using a Markov chain (for all Loci):
+Forecasted chain length     :1000000
+Dememorization steps        :100000
+
+------------------------------------------------------------------------
+Locus  #Genot       Obs.Het.     Exp.Het.   P-value     s.d.  Steps done
+------------------------------------------------------------------------
+    1      30       0.83333      0.77571    0.95497  0.00018     1001000
+    2      30       0.83333      0.87627    0.42266  0.00041     1001000
+    3      26       0.65385      0.63952    0.78063  0.00035     1001000
+    4      30       0.23333      0.23898    0.14547  0.00035     1001000
+    5   This locus is monomorphic: no test done.
+    6      30       0.80000      0.79661    0.78320  0.00038     1001000
+    7      29       0.68966      0.65094    0.97792  0.00015     1001000
+    8      29       0.96552      0.87659    0.99878  0.00004     1001000
+    9      29       0.55172      0.57834    0.21833  0.00041     1001000
+------------------------------------------------------------------------
+
+
+</data>
+
+ <A NAME="16_12_16at09_08_04_group6"></A> 
+<data>
+
+
+===============================================================================
+== Sample : 	Sunset Is
+===============================================================================
+
+
+===============================
+== Hardy-Weinberg equilibrium : (Sunset Is)
+===============================
+
+</data>
+<Reference>Guo, S. and Thompson, E. 1992.</Reference>
+<Reference>Levene H. (1949).</Reference>
+<data>
+
+Exact test using a Markov chain (for all Loci):
+Forecasted chain length     :1000000
+Dememorization steps        :100000
+
+------------------------------------------------------------------------
+Locus  #Genot       Obs.Het.     Exp.Het.   P-value     s.d.  Steps done
+------------------------------------------------------------------------
+    1      30       0.83333      0.76554    0.85185  0.00042     1001000
+    2      26       0.76923      0.84465    0.44614  0.00036     1001000
+    3      26       0.73077      0.69382    0.99028  0.00009     1001000
+    4      30       0.30000      0.27062    1.00000  0.00000     1001000
+    5   This locus is monomorphic: no test done.
+    6      30       0.86667      0.76497    0.17259  0.00038     1001000
+    7      28       0.78571      0.60844    0.21917  0.00041     1001000
+    8      30       0.83333      0.86610    0.09535  0.00017     1001000
+    9      28       0.53571      0.68701    0.27942  0.00045     1001000
+------------------------------------------------------------------------
+
+
+</data>
+
+ <A NAME="16_12_16at09_08_04_group7"></A> 
+<data>
+
+
+===============================================================================
+== Sample : 	Fairhaven_LO
+===============================================================================
+
+
+===============================
+== Hardy-Weinberg equilibrium : (Fairhaven_LO)
+===============================
+
+</data>
+<Reference>Guo, S. and Thompson, E. 1992.</Reference>
+<Reference>Levene H. (1949).</Reference>
+<data>
+
+Exact test using a Markov chain (for all Loci):
+Forecasted chain length     :1000000
+Dememorization steps        :100000
+
+------------------------------------------------------------------------
+Locus  #Genot       Obs.Het.     Exp.Het.   P-value     s.d.  Steps done
+------------------------------------------------------------------------
+    1      24       0.45833      0.57713    0.28203  0.00034     1001000
+    2      22       0.68182      0.67865    0.91875  0.00031     1001000
+    3      24       0.75000      0.60461    0.66191  0.00048     1001000
+    4      24       0.25000      0.32713    0.19041  0.00034     1001000
+    5   This locus is monomorphic: no test done.
+    6      24       0.79167      0.74468    0.62157  0.00045     1001000
+    7      24       0.29167      0.25975    1.00000  0.00000     1001000
+    8      24       0.91667      0.91933    0.92763  0.00023     1001000
+    9      24       0.66667      0.57092    1.00000  0.00000     1001000
+------------------------------------------------------------------------
+
+
+</data>
+
+ <A NAME="16_12_16at09_08_04_group8"></A> 
+<data>
+
+
+===============================================================================
+== Sample : 	Hamilton_LO
+===============================================================================
+
+
+===============================
+== Hardy-Weinberg equilibrium : (Hamilton_LO)
+===============================
+
+</data>
+<Reference>Guo, S. and Thompson, E. 1992.</Reference>
+<Reference>Levene H. (1949).</Reference>
+<data>
+
+Exact test using a Markov chain (for all Loci):
+Forecasted chain length     :1000000
+Dememorization steps        :100000
+
+------------------------------------------------------------------------
+Locus  #Genot       Obs.Het.     Exp.Het.   P-value     s.d.  Steps done
+------------------------------------------------------------------------
+    1      24       0.41667      0.40869    1.00000  0.00000     1001000
+    2      24       0.87500      0.73848    0.06960  0.00017     1001000
+    3      24       0.66667      0.62323    0.92848  0.00024     1001000
+    4      24       0.29167      0.25975    1.00000  0.00000     1001000
+    5   This locus is monomorphic: no test done.
+    6      24       0.62500      0.62057    0.87047  0.00035     1001000
+    7      24       0.25000      0.22784    1.00000  0.00000     1001000
+    8      22       0.77273      0.93552    0.02379  0.00011     1001000
+    9      23       0.47826      0.59614    0.32606  0.00038     1001000
+------------------------------------------------------------------------
+
+
+
+
+================================================================================
+== Summary of computations done within populations
+================================================================================
+</data>
+
+ <A NAME="16_12_16at09_08_04_pop_gen_struct"></A> 
+<data>
+
+===============================================================================
+== GENETIC STRUCTURE ANALYSIS
+===============================================================================
+
+
+Number of usable loci for distance computation : 8
+Allowed level of missing data                  : 0.05000
+
+List of usable loci :
+---------------------
+   1     2     4     5     6     7     8     9  
+
+List of loci with too much missing data :
+-----------------------------------------
+
+   3  
+
+</data>
+
+ <A NAME="16_12_16at09_08_04_pop_amova"></A> 
+<data>
+
+
+=================================================================
+  AMOVA ANALYSIS
+=================================================================
+
+
+---------------------------
+Genetic structure to test :
+---------------------------
+
+No. of Groups = 2
+
+
+	[[Structure]]
+
+		StructureName = "New Edited Structure"
+		NbGroups = 2
+	#Group1
+		Group={
+		"Barber1"
+		"Grand Is"
+		"ISN"
+		"ISS"
+		"mallets"
+		"shelburne bay"
+		"Sunset Is"
+		}
+
+	#Group2
+		Group={
+		"Hamilton_LO"
+		"Fairhaven_LO"
+		}
+
+---------------------------
+
+
+Distance method: No. of different alleles (FST)
+
+--------------------------
+AMOVA design and results :
+--------------------------
+
+</data>
+<Reference>Weir, B.S. and Cockerham, C.C. 1984.</Reference>
+<Reference>Excoffier, L., Smouse, P., and Quattro, J. 1992.</Reference>
+<Reference>Weir, B. S., 1996.</Reference>
+<data>
+----------------------------------------------------------------------
+ Source of                  Sum of      Variance         Percentage
+ variation      d.f.        squares     components       of variation
+----------------------------------------------------------------------
+ Among
+ groups           1         41.926        0.25752 Va            10.40
+
+ Among
+ populations
+ within
+ groups           7         14.227       -0.00342 Vb            -0.14
+
+ Within
+ populations    487       1082.585        2.22297 Vc            89.74
+----------------------------------------------------------------------
+ Total          495       1138.738        2.47706
+----------------------------------------------------------------------
+ Fixation Indices
+      FST :      0.10258
+      FSC :     -0.00154
+      FCT :      0.10396
+----------------------------------------------------------------------
+
+Significance tests (1023 permutations)
+------------------
+
+Vc and FST : P(rand. value &lt; obs. value)  =  0.00000
+             P(rand. value = obs. value)  =  0.00000
+                                  P-value =  0.00000+-0.00000
+
+Vb and FSC : P(rand. value > obs. value)  =  0.74096
+             P(rand. value = obs. value)  =  0.00000
+                                  P-value =  0.74096+-0.01041
+
+Va and FCT : P(rand. value > obs. value)  =  0.00000
+             P(rand. value = obs. value)  =  0.03226
+                                  P-value =  0.03226+-0.00627
+
+</data>
+
+ <A NAME="16_12_16at09_08_04_pop_pairw_diff"></A> 
+<data>
+
+
+======================================================================================
+== Comparisons of pairs of population samples
+======================================================================================
+
+List of labels for population samples used below:
+-------------------------------------------------
+</data> <pairDistPopLabels time="16/12/16 at 09:08:04">
+
+Label  	Population name
+-----  	---------------
+  1:	Barber1
+  2:	Grand Is
+  3:	ISN
+  4:	ISS
+  5:	mallets
+  6:	shelburne bay
+  7:	Sunset Is
+  8:	Hamilton_LO
+  9:	Fairhaven_LO
+</pairDistPopLabels> <data>
+
+
+------------------------
+Population pairwise FSTs
+------------------------
+
+</data> <PairFstMat time="16/12/16 at 09:08:04">
+
+
+Distance method: No. of different alleles (FST)
+                     1         2         3         4         5         6         7         8         9
+           1   0.00000
+           2  -0.00746   0.00000
+           3  -0.00668  -0.00561   0.00000
+           4   0.00244   0.00061  -0.00425   0.00000
+           5  -0.01140  -0.00890  -0.00641   0.00094   0.00000
+           6  -0.00511  -0.00756  -0.00042   0.00509  -0.00944   0.00000
+           7  -0.00379   0.00851   0.00254   0.01594   0.00522  -0.00273   0.00000
+           8   0.11944   0.11116   0.12954   0.14084   0.09076   0.10776   0.11790   0.00000
+           9   0.09593   0.09063   0.10612   0.11504   0.06471   0.08258   0.09764  -0.00419   0.00000
+</PairFstMat> <data>
+
+
+
+------------
+FST P values
+------------
+
+Number of permutations : 110
+
+</data> <PairFstPvalMat time="16/12/16 at 09:08:04">
+
+                       1                 2                 3                 4                 5                 6                 7                 8                 9
+           1           *
+           2   0.90991+-0.0214           *
+           3   0.87387+-0.0274   0.84685+-0.0244           *
+           4   0.36937+-0.0370   0.38739+-0.0430   0.86486+-0.0151           *
+           5   0.99099+-0.0030   0.85586+-0.0312   0.81982+-0.0287   0.29730+-0.0451           *
+           6   0.87387+-0.0238   0.96396+-0.0196   0.36036+-0.0359   0.09910+-0.0316   0.88288+-0.0379           *
+           7   0.71171+-0.0317   0.01802+-0.0121   0.26126+-0.0515   0.01802+-0.0121   0.15315+-0.0430   0.67568+-0.0475           *
+           8   0.00000+-0.0000   0.00000+-0.0000   0.00000+-0.0000   0.00000+-0.0000   0.00000+-0.0000   0.00000+-0.0000   0.00000+-0.0000           *
+           9   0.00000+-0.0000   0.00000+-0.0000   0.00000+-0.0000   0.00000+-0.0000   0.00000+-0.0000   0.00000+-0.0000   0.00000+-0.0000   0.69369+-0.0430           *
+</PairFstPvalMat> <data>
+
+
+
+------------
+Matrix of significant Fst P values
+Significance Level=0.0500
+------------
+
+Number of permutations : 110
+
+                     1         2         3         4         5         6         7         8         9
+           1                   -         -         -         -         -         -         +         +
+           2         -                   -         -         -         -         +         +         +
+           3         -         -                   -         -         -         -         +         +
+           4         -         -         -                   -         -         +         +         +
+           5         -         -         -         -                   -         -         +         +
+           6         -         -         -         -         -                   -         +         +
+           7         -         +         -         +         -         -                   +         +
+           8         +         +         +         +         +         +         +                   -
+           9         +         +         +         +         +         +         +         -          
+
+---------------------------------------------------
+Matrix of coancestry coefficients as t/M=-ln(1-FST)
+(M=N for haploid data, M=2N for diploid data)
+---------------------------------------------------
+
+Reference: </data>
+<Reference>Reynolds, J., Weir, B.S., and Cockerham, C.C. 1983.</Reference>
+<data>
+</data> <coancestryCoefficients time="16/12/16 at 09:08:04">
+
+                     1         2         3         4         5         6         7         8         9
+           1  -0.00000
+           2         0  -0.00000
+           3         0         0  -0.00000
+           4   0.00244   0.00061         0  -0.00000
+           5         0         0         0   0.00094  -0.00000
+           6         0         0         0   0.00510         0  -0.00000
+           7         0   0.00855   0.00254   0.01606   0.00524         0  -0.00000
+           8   0.12720   0.11784   0.13873   0.15180   0.09514   0.11402   0.12545  -0.00000
+           9   0.10084   0.09500   0.11218   0.12221   0.06690   0.08619   0.10274         0  -0.00000
+</coancestryCoefficients> <data>
+
+
+
+----------------------------------------------------
+Matrix of Slatkin linearized FSTs as t/M=FST/(1-FST)
+(M=N for haploid data, M=2N for diploid data)
+----------------------------------------------------
+
+Reference: </data>
+<Reference>Slatkin, M., 1995. </Reference>
+<data>
+</data> <slatkinFst time="16/12/16 at 09:08:04">
+
+                     1         2         3         4         5         6         7         8         9
+           1   0.00000
+           2         0   0.00000
+           3         0         0   0.00000
+           4   0.00244   0.00061         0   0.00000
+           5         0         0         0   0.00094   0.00000
+           6         0         0         0   0.00512         0   0.00000
+           7         0   0.00858   0.00255   0.01619   0.00525         0   0.00000
+           8   0.13564   0.12506   0.14881   0.16393   0.09982   0.12078   0.13366   0.00000
+           9   0.10610   0.09966   0.11872   0.13000   0.06919   0.09001   0.10820         0   0.00000
+</slatkinFst> <data>
+
+
+
+------------------------------------------------------------------
+Matrix of M values (M=Nm for haploid data, M=2Nm for diploid data)
+------------------------------------------------------------------
+
+                     1         2         3         4         5         6         7         8         9
+           1
+           2       inf
+           3       inf       inf
+           4 204.79952 823.19462       inf
+           5       inf       inf       inf 534.16625
+           6       inf       inf       inf  97.73955       inf
+           7       inf  58.25909 196.29744  30.87730  95.21321       inf
+           8   3.68627   3.99804   3.35992   3.05017   5.00918   4.13979   3.74086
+           9   4.71241   5.01704   4.21166   3.84626   7.22646   5.55467   4.62111       inf
+
+
+</data>
+
+ <A NAME="16_12_16at09_08_04_pop_exct_tests"></A> 
+<data>
+
+
+================================================================================
+== Exact Test of Sample Differentiation Based on Genotype Frequencies
+================================================================================
+</data>
+<Reference>Raymond M. and F. Rousset. 1995 .</Reference>
+<Reference>Goudet, J., M. Raymond, T. de Mee�s and F. Rousset, 1996.</Reference>
+<data>
+
+List of labels for population samples used below:
+-------------------------------------------------
+</data> <exactTestPopLabels time="16/12/16 at 09:08:04">
+
+Label  	Population name
+-----  	---------------
+  1	Barber1
+  2	Grand Is
+  3	ISN
+  4	ISS
+  5	mallets
+  6	shelburne bay
+  7	Sunset Is
+  8	Fairhaven_LO
+  9	Hamilton_LO
+
+</exactTestPopLabels> <data>
+
+
+--------------------------------------------------------------------------
+Global test of differentiation among sample:
+--------------------------------------------
+
+ Non-differentiation: Exact P value = 1.00000 +- 0.00000  (30000 Markov steps done)
+
+--------------------------------------------------------------------------
+Differentiation test between all pairs of samples:
+--------------------------------------------------
+
+Markov chain length : 100000 steps)
+
+Non-differentiation exact P values :
+
+                1                 2                 3                 4                 5                 6                 7                 8
+
+           2   1.00000+-0.0000
+           3   1.00000+-0.0000   1.00000+-0.0000
+           4   1.00000+-0.0000   1.00000+-0.0000   1.00000+-0.0000
+           5   1.00000+-0.0000   1.00000+-0.0000   1.00000+-0.0000   1.00000+-0.0000
+           6   1.00000+-0.0000   1.00000+-0.0000   1.00000+-0.0000   1.00000+-0.0000   1.00000+-0.0000
+           7   1.00000+-0.0000   1.00000+-0.0000   1.00000+-0.0000   1.00000+-0.0000   1.00000+-0.0000   1.00000+-0.0000
+           8   1.00000+-0.0000   1.00000+-0.0000   1.00000+-0.0000   1.00000+-0.0000   1.00000+-0.0000   1.00000+-0.0000   1.00000+-0.0000
+           9   1.00000+-0.0000   1.00000+-0.0000   1.00000+-0.0000   1.00000+-0.0000   1.00000+-0.0000   1.00000+-0.0000   1.00000+-0.0000   1.00000+-0.0000
+
+
+--------------------------------
+Table of significant differences (significance level=0.0500):
+--------------------------------
+
+                     1         2         3         4         5         6         7         8         9
+           1                   -         -         -         -         -         -         -         -
+           2         -                   -         -         -         -         -         -         -
+           3         -         -                   -         -         -         -         -         -
+           4         -         -         -                   -         -         -         -         -
+           5         -         -         -         -                   -         -         -         -
+           6         -         -         -         -         -                   -         -         -
+           7         -         -         -         -         -         -                   -         -
+           8         -         -         -         -         -         -         -                   -
+           9         -         -         -         -         -         -         -         -          
+
+
+------------------------------------------------------------
+Histogram of the number of significant different populations (significance level=0.0500):
+------------------------------------------------------------
+
+-----------------------------------------------------------------------------------------------------
+|         1|         2|         3|         4|         5|         6|         7|         8|         9|
+-----------------------------------------------------------------------------------------------------
+|         0|         0|         0|         0|         0|         0|         0|         0|         0|
+-----------------------------------------------------------------------------------------------------
+
+////////////////////////////////////////////////////////////////////
+END OF RUN NUMBER 1 (16/12/16 at 09:08:16))
+Total computing time for this run : 0h 0m 12s 84 ms
+////////////////////////////////////////////////////////////////////
+
+
+</data>
+
+
+<data>
+
+
+</data>
+
+<header>
+Arlequin results
+</header>
+<data>
+
+</data>
+
+ <A NAME="16_12_16at11_37_12"></A> 
+<data>
+
+</data> <run time="16/12/16 at 11:37:12">
+
+////////////////////////////////////////////////////////////////////
+RUN NUMBER 1 (16/12/16 at 11:37:12)
+////////////////////////////////////////////////////////////////////
+
+</run> <data>
+ #[WARNING # 1] : bad value assigned to keyword in project file
+</data>
+
+ <A NAME="16_12_16at11_37_12_run_information"></A> 
+<data>
+
+
+Project information:
+--------------------
+	NbSamples      =  9
+	DataType       =  MICROSAT
+	GenotypicData  =  1
+	GameticPhase   =  0
+	RecessiveData  =  0
+
+</data> <title time="16/12/16 at 11:37:12">
+
+==============================
+Settings used for Calculations
+==============================
+
+</title> <data>
+
+ General settings:
+ -----------------
+        Deletion Weight                = 1
+        Transition Weight Weight       = 1
+        Tranversion Weight Weight      = 1
+        Epsilon Value                  = 1e-007
+        Significant digits for output  = 5
+        Use original haplotype definition
+        Alllowed level of missing data = 0.05
+
+ Active Tasks:
+ -------------
+
+    Population pairwise Fst values:
+    -------------------------------
+        No. of permutations for significance = 100
+        No. of permutations for Mantel test  = 1000
+
+       Distance matrix:
+            Compute distance matrix
+            Molecular distance : Sum of squared size difference (RST)
+            Gamma a value      = 0
+
+</data>
+
+ <A NAME="16_12_16at11_37_12_pop_gen_struct"></A> 
+<data>
+
+===============================================================================
+== GENETIC STRUCTURE ANALYSIS
+===============================================================================
+
+
+Number of usable loci for distance computation : 8
+Allowed level of missing data                  : 0.05
+
+List of usable loci :
+---------------------
+   1     2     4     5     6     7     8     9  
+
+List of loci with too much missing data :
+-----------------------------------------
+
+   3  
+
+</data>
+
+ <A NAME="16_12_16at11_37_12_pop_pairw_diff"></A> 
+<data>
+
+
+======================================================================================
+== Comparisons of pairs of population samples
+======================================================================================
+
+List of labels for population samples used below:
+-------------------------------------------------
+</data> <pairDistPopLabels time="16/12/16 at 11:37:12">
+
+Label  	Population name
+-----  	---------------
+  1:	Barber1
+  2:	Grand Is
+  3:	ISN
+  4:	ISS
+  5:	mallets
+  6:	shelburne bay
+  7:	Sunset Is
+  8:	Hamilton_LO
+  9:	Fairhaven_LO
+</pairDistPopLabels> <data>
+
+
+------------------------
+Population pairwise FSTs
+------------------------
+
+</data> <PairFstMat time="16/12/16 at 11:37:12">
+
+
+Distance method: Sum of squared size difference (RST)
+                     1         2         3         4         5         6         7         8         9
+           1   0.00000
+           2  -0.00290   0.00000
+           3  -0.01284  -0.01524   0.00000
+           4  -0.01138  -0.01083  -0.01487   0.00000
+           5  -0.01072  -0.01915  -0.02006  -0.01143   0.00000
+           6  -0.01349  -0.01243  -0.01652  -0.01553  -0.01634   0.00000
+           7  -0.01397  -0.00686  -0.01942  -0.01627  -0.02259  -0.01858   0.00000
+           8   0.13548   0.18716   0.15167   0.20138   0.18183   0.16285   0.17007   0.00000
+           9   0.12776   0.19103   0.14722   0.18724   0.17530   0.15686   0.17593  -0.02871   0.00000
+</PairFstMat> <data>
+
+
+
+------------
+FST P values
+------------
+
+Number of permutations : 110
+
+</data> <PairFstPvalMat time="16/12/16 at 11:37:12">
+
+                       1                 2                 3                 4                 5                 6                 7                 8                 9
+           1           *
+           2   0.43243+-0.0539           *
+           3   0.80180+-0.0214   0.93694+-0.0203           *
+           4   0.76577+-0.0413   0.68468+-0.0279   0.90991+-0.0253           *
+           5   0.50450+-0.0433   0.82883+-0.0354   0.90991+-0.0214   0.68468+-0.0364           *
+           6   0.82883+-0.0485   0.81081+-0.0470   0.94595+-0.0205   0.93694+-0.0203   0.65766+-0.0408           *
+           7   0.81982+-0.0439   0.63964+-0.0417   0.99099+-0.0030   0.96396+-0.0196   0.97297+-0.0184   0.99099+-0.0030           *
+           8   0.00000+-0.0000   0.00000+-0.0000   0.00000+-0.0000   0.00000+-0.0000   0.00000+-0.0000   0.00000+-0.0000   0.00000+-0.0000           *
+           9   0.00000+-0.0000   0.00000+-0.0000   0.00000+-0.0000   0.00000+-0.0000   0.00000+-0.0000   0.00000+-0.0000   0.00000+-0.0000   0.89189+-0.0253           *
+</PairFstPvalMat> <data>
+
+
+
+------------
+Matrix of significant Fst P values
+Significance Level=0.0500
+------------
+
+Number of permutations : 110
+
+                     1         2         3         4         5         6         7         8         9
+           1                   -         -         -         -         -         -         +         +
+           2         -                   -         -         -         -         -         +         +
+           3         -         -                   -         -         -         -         +         +
+           4         -         -         -                   -         -         -         +         +
+           5         -         -         -         -                   -         -         +         +
+           6         -         -         -         -         -                   -         +         +
+           7         -         -         -         -         -         -                   +         +
+           8         +         +         +         +         +         +         +                   -
+           9         +         +         +         +         +         +         +         -          
+
+
+////////////////////////////////////////////////////////////////////
+END OF RUN NUMBER 1 (16/12/16 at 11:37:13))
+Total computing time for this run : 0h 0m 0s 530 ms
+////////////////////////////////////////////////////////////////////
+
+
+</data>
+
+
+<data>
+
+
+</data>
+
+<header>
+Arlequin results
+</header>
+<data>
+
+</data>
+
+ <A NAME="16_12_16at14_18_01"></A> 
+<data>
+
+</data> <run time="16/12/16 at 14:18:01">
+
+////////////////////////////////////////////////////////////////////
+RUN NUMBER 1 (16/12/16 at 14:18:01)
+////////////////////////////////////////////////////////////////////
+
+</run> <data>
+ #[WARNING # 1] : bad value assigned to keyword in project file
+</data>
+
+ <A NAME="16_12_16at14_18_01_run_information"></A> 
+<data>
+
+
+Project information:
+--------------------
+	NbSamples      =  9
+	DataType       =  MICROSAT
+	GenotypicData  =  1
+	GameticPhase   =  0
+	RecessiveData  =  0
+
+</data> <title time="16/12/16 at 14:18:01">
+
+==============================
+Settings used for Calculations
+==============================
+
+</title> <data>
+
+ General settings:
+ -----------------
+        Deletion Weight                = 1
+        Transition Weight Weight       = 1
+        Tranversion Weight Weight      = 1
+        Epsilon Value                  = 1e-007
+        Significant digits for output  = 5
+        Use original haplotype definition
+        Alllowed level of missing data = 0.05
+
+ Active Tasks:
+ -------------
+
+    Analysis of Molecular Variance:
+    -------------------------------
+        No. of Permutations = 1000
+
+       Distance matrix:
+            Compute distance matrix
+            Molecular distance : No. of different alleles (FST)
+            Gamma a value      = 0
+
+</data>
+
+ <A NAME="16_12_16at14_18_01_pop_gen_struct"></A> 
+<data>
+
+===============================================================================
+== GENETIC STRUCTURE ANALYSIS
+===============================================================================
+
+
+Number of usable loci for distance computation : 8
+Allowed level of missing data                  : 0.05
+
+List of usable loci :
+---------------------
+   1     2     4     5     6     7     8     9  
+
+List of loci with too much missing data :
+-----------------------------------------
+
+   3  
+
+</data>
+
+ <A NAME="16_12_16at14_18_01_pop_amova"></A> 
+<data>
+
+
+=================================================================
+  AMOVA ANALYSIS
+=================================================================
+
+
+---------------------------
+Genetic structure to test :
+---------------------------
+
+No. of Groups = 2
+
+
+	[[Structure]]
+
+		StructureName = "New Edited Structure"
+		NbGroups = 2
+	#Group1
+		Group={
+		"Barber1"
+		"Grand Is"
+		"shelburne bay"
+		"Sunset Is"
+		}
+
+	#Group2
+		Group={
+		"ISN"
+		"ISS"
+		}
+
+---------------------------
+
+
+Distance method: No. of different alleles (FST)
+
+--------------------------
+AMOVA design and results :
+--------------------------
+
+</data>
+<Reference>Weir, B.S. and Cockerham, C.C. 1984.</Reference>
+<Reference>Excoffier, L., Smouse, P., and Quattro, J. 1992.</Reference>
+<Reference>Weir, B. S., 1996.</Reference>
+<data>
+----------------------------------------------------------------------
+ Source of                  Sum of      Variance         Percentage
+ variation      d.f.        squares     components       of variation
+----------------------------------------------------------------------
+ Among
+ groups           1          3.823        0.01218 Va             0.53
+
+ Among
+ populations
+ within
+ groups           4          7.350       -0.00787 Vb            -0.34
+
+ Within
+ populations    358        828.349        2.31382 Vc            99.81
+----------------------------------------------------------------------
+ Total          363        839.522        2.31813
+----------------------------------------------------------------------
+ Fixation Indices
+      FST :      0.00186
+      FSC :     -0.00341
+      FCT :      0.00525
+----------------------------------------------------------------------
+
+Significance tests (1023 permutations)
+------------------
+
+Vc and FST : P(rand. value &lt; obs. value)  =  0.52786
+             P(rand. value = obs. value)  =  0.00000
+                                  P-value =  0.52786+-0.01301
+
+Vb and FSC : P(rand. value > obs. value)  =  0.90616
+             P(rand. value = obs. value)  =  0.00000
+                                  P-value =  0.90616+-0.00946
+
+Va and FCT : P(rand. value > obs. value)  =  0.00000
+             P(rand. value = obs. value)  =  0.05767
+                                  P-value =  0.05767+-0.00694
+
+
+////////////////////////////////////////////////////////////////////
+END OF RUN NUMBER 1 (16/12/16 at 14:18:01))
+Total computing time for this run : 0h 0m 0s 503 ms
+////////////////////////////////////////////////////////////////////
+
+
+</data>
+
+
+<data>
+
+
+</data>
+
+<header>
+Arlequin results
+</header>
+<data>
+
+</data>
+
+ <A NAME="16_12_16at14_31_45"></A> 
+<data>
+
+</data> <run time="16/12/16 at 14:31:45">
+
+////////////////////////////////////////////////////////////////////
+RUN NUMBER 1 (16/12/16 at 14:31:45)
+////////////////////////////////////////////////////////////////////
+
+</run> <data>
+ #[WARNING # 1] : bad value assigned to keyword in project file
+</data>
+
+ <A NAME="16_12_16at14_31_45_run_information"></A> 
+<data>
+
+
+Project information:
+--------------------
+	NbSamples      =  9
+	DataType       =  MICROSAT
+	GenotypicData  =  1
+	GameticPhase   =  0
+	RecessiveData  =  0
+
+</data> <title time="16/12/16 at 14:31:45">
+
+==============================
+Settings used for Calculations
+==============================
+
+</title> <data>
+
+ General settings:
+ -----------------
+        Deletion Weight                = 1
+        Transition Weight Weight       = 1
+        Tranversion Weight Weight      = 1
+        Epsilon Value                  = 1e-007
+        Significant digits for output  = 5
+        Use original haplotype definition
+        Alllowed level of missing data = 0.05
+
+ Active Tasks:
+ -------------
+
+    Population pairwise Fst values:
+    -------------------------------
+        No. of permutations for significance = 1000
+        No. of permutations for Mantel test  = 1000
+
+       Distance matrix:
+            Compute distance matrix
+            Molecular distance : Sum of squared size difference (RST)
+            Gamma a value      = 0
+
+</data>
+
+ <A NAME="16_12_16at14_31_45_pop_gen_struct"></A> 
+<data>
+
+===============================================================================
+== GENETIC STRUCTURE ANALYSIS
+===============================================================================
+
+
+Number of usable loci for distance computation : 8
+Allowed level of missing data                  : 0.05
+
+List of usable loci :
+---------------------
+   1     2     4     5     6     7     8     9  
+
+List of loci with too much missing data :
+-----------------------------------------
+
+   3  
+
+</data>
+
+ <A NAME="16_12_16at14_31_45_pop_pairw_diff"></A> 
+<data>
+
+
+======================================================================================
+== Comparisons of pairs of population samples
+======================================================================================
+
+List of labels for population samples used below:
+-------------------------------------------------
+</data> <pairDistPopLabels time="16/12/16 at 14:31:45">
+
+Label  	Population name
+-----  	---------------
+  1:	Barber1
+  2:	Grand Is
+  3:	shelburne bay
+  4:	Sunset Is
+  5:	ISN
+  6:	ISS
+  7:	mallets
+  8:	Fairhaven_LO
+  9:	Hamilton_LO
+</pairDistPopLabels> <data>
+
+
+------------------------
+Population pairwise FSTs
+------------------------
+
+</data> <PairFstMat time="16/12/16 at 14:31:45">
+
+
+Distance method: Sum of squared size difference (RST)
+                     1         2         3         4         5         6         7         8         9
+           1   0.00000
+           2  -0.00290   0.00000
+           3  -0.01349  -0.01243   0.00000
+           4  -0.01397  -0.00686  -0.01858   0.00000
+           5  -0.01284  -0.01524  -0.01652  -0.01942   0.00000
+           6  -0.01138  -0.01083  -0.01553  -0.01627  -0.01487   0.00000
+           7  -0.01072  -0.01915  -0.01634  -0.02259  -0.02006  -0.01143   0.00000
+           8   0.12776   0.19103   0.15686   0.17593   0.14722   0.18724   0.17530   0.00000
+           9   0.13548   0.18716   0.16285   0.17007   0.15167   0.20138   0.18183  -0.02871   0.00000
+</PairFstMat> <data>
+
+
+
+------------
+FST P values
+------------
+
+Number of permutations : 1023
+
+</data> <PairFstPvalMat time="16/12/16 at 14:31:45">
+
+                       1                 2                 3                 4                 5                 6                 7                 8                 9
+           1           *
+           2   0.43750+-0.0171           *
+           3   0.83105+-0.0110   0.76465+-0.0140           *
+           4   0.87500+-0.0099   0.57617+-0.0196   0.98730+-0.0036           *
+           5   0.84863+-0.0103   0.93164+-0.0062   0.95117+-0.0067   0.99414+-0.0020           *
+           6   0.73340+-0.0114   0.73340+-0.0145   0.92578+-0.0088   0.95801+-0.0065   0.92773+-0.0071           *
+           7   0.56641+-0.0145   0.83984+-0.0118   0.72559+-0.0124   0.94141+-0.0063   0.90137+-0.0086   0.60645+-0.0179           *
+           8   0.00098+-0.0010   0.00000+-0.0000   0.00000+-0.0000   0.00195+-0.0014   0.00000+-0.0000   0.00000+-0.0000   0.00000+-0.0000           *
+           9   0.00000+-0.0000   0.00000+-0.0000   0.00000+-0.0000   0.00000+-0.0000   0.00098+-0.0010   0.00000+-0.0000   0.00000+-0.0000   0.91602+-0.0095           *
+</PairFstPvalMat> <data>
+
+
+
+------------
+Matrix of significant Fst P values
+Significance Level=0.0500
+------------
+
+Number of permutations : 1023
+
+                     1         2         3         4         5         6         7         8         9
+           1                   -         -         -         -         -         -         +         +
+           2         -                   -         -         -         -         -         +         +
+           3         -         -                   -         -         -         -         +         +
+           4         -         -         -                   -         -         -         +         +
+           5         -         -         -         -                   -         -         +         +
+           6         -         -         -         -         -                   -         +         +
+           7         -         -         -         -         -         -                   +         +
+           8         +         +         +         +         +         +         +                   -
+           9         +         +         +         +         +         +         +         -          
+
+
+////////////////////////////////////////////////////////////////////
+END OF RUN NUMBER 1 (16/12/16 at 14:31:48))
+Total computing time for this run : 0h 0m 2s 660 ms
+////////////////////////////////////////////////////////////////////
+
+
+</data>
+
+</Arlequin>
+

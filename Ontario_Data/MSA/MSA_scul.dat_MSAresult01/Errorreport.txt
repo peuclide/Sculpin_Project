@@ -1,0 +1,15 @@
+This file is a log-file of possible errors in your dataset.
+What you find here:
+- Unexpected Mutationsteps/The real Mutationsteps.
+- Large Gaps in your Data (>5xMutationstep OR >15 bp)
+- Unexpected short/long Allels (possible type errors!)[<35,>300]
+
+Allele.1.105b,	Found to long Allel(s):346	
+Allele.1.128,	Found to long Allel(s):350	
+Allele.1.11,	
+Allele.1.113,	
+Allele.1.213,	Incorrect Mutationsteps:1 instead of 2	Found to long Allel(s):332	
+Allele.1.2,	
+Allele.1.8,	
+Allele.1.17,	Incorrect Mutationsteps:1 instead of 3	Large Allelgap detected:6	
+Allele.1.13,	Incorrect Mutationsteps:1 instead of 3	

@@ -1,0 +1,60 @@
+---
+title: "Causeway_temp_sculpin"
+author: "Peter Euclide"
+date: "December 19, 2016"
+output: html_document
+---
+
+```{r}
+
+setwd("~/Dropbox/Genetics/Sculpin_analysis/Ontario_Data/Temp_Data")
+library(ggplot2)
+library(plyr)
+
+```
+
+```{r}
+d <- read.csv("R_10727716_gut_drawbridge_Oct15-Oct16.csv", skip = 1)
+d <- read.csv("R_10727717 Outer Mallets South July15-Oct16.csv", skip = 1)
+d <- read.csv("R_10727711-outer mallets north Sept15-Oct16.csv", skip = 1)
+d <- read.csv("R_10727718_SWCarryB_sept15-oct16.csv", skip = 1)
+d <- d[,c(1:3)]
+d$Date <- as.Date(d$Date, format = "%m/%d/%y")
+min(d$Date, na.rm = T)
+d <- subset(d, Date %in% c(min(d$Date, na.rm = T):(min(d$Date, na.rm = T)+365)))
+
+dprf <- subset(d, Temp...C >9)
+dhigh <- subset(d, Temp...C >=15)
+nrow(as.data.frame(unique(dhigh$Date)))/365
+nrow(as.data.frame(unique(dprf$Date)))/365
+
+#"R_10727718_SWCarryB_sept15-oct16.csv"
+#above 15=  0.3534247
+#above 9 = 0.5561644
+
+#outer mallets north Sept15-Oct16
+# > nrow(as.data.frame(unique(dhigh$Date)))/365
+# above 15= 0.3945205
+# > nrow(as.data.frame(unique(dprf$Date)))/365
+# above 9 = 0.5452055
+
+# Outer Mallets South July15-Oct16
+# > nrow(as.data.frame(unique(dhigh$Date)))/365
+# above 15= 0.3890411
+# > nrow(as.data.frame(unique(dprf$Date)))/365
+# above 9= 0.5479452
+# gut_drawbridge_Oct15-Oct16
+# > nrow(as.data.frame(unique(dhigh$Date)))/365
+# above 15= 0.3616438
+# > nrow(as.data.frame(unique(dprf$Date)))/365
+# above 9= 0.4931507
+
+# > mean(abv15)
+# [1] 0.3746575
+# > sd(abv15)
+# [1] 0.02017932
+# 
+# > sd(abv9)
+# [1] 0.02869092
+# > mean(abv9)
+# [1] 0.5356165
